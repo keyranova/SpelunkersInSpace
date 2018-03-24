@@ -20,9 +20,9 @@ public class Rocket : MonoBehaviour {
             print("boost");
         }
 
-        if (Input.GetKey(KeyCode.LeftArrow)) {
+        if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A)) {
             print("go left");
-        } else if (Input.GetKey(KeyCode.RightArrow)) {
+        } else if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D)) {
             print("go right");
         }
     }
