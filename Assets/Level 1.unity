@@ -113,7 +113,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &231667711
+--- !u!1001 &546250513
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -126,7 +126,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4516428457134634, guid: 4b8c417fc3cc7b147afd227ff837d008, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 2.84
+      value: 2.91
       objectReference: {fileID: 0}
     - target: {fileID: 4516428457134634, guid: 4b8c417fc3cc7b147afd227ff837d008, type: 2}
       propertyPath: m_LocalPosition.z
